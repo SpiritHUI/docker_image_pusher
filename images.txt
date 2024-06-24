@@ -2,5 +2,3 @@ redis:7.2.5
 mysql:8.4-oraclelinux9
 oceanbase/oceanbase-ce:4.2.1
 rabbitmq:3.13.3
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
