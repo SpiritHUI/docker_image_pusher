@@ -5,3 +5,4 @@ rabbitmq:3.13.3
 elasticsearch:8.14.1
 kibana:8.14.1
 flink:1.19.1-scala_2.12-java17
+postgres:16.3
