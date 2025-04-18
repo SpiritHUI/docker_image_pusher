@@ -1,6 +1,6 @@
 apachepulsar/pulsar:4.0.0
 apache/rocketmq:5.3.1
 redis:7.4.1
-jenkins/jenkins:2.479.1-lts-jdk21
+jenkins/jenkins:2.492.3-lts-jdk21
 postgres:17.2
 rabbitmq:4.0.4-management
